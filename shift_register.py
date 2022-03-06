@@ -5,7 +5,7 @@ output from a single, possibly unstable sensor. Samples from the 'history' or
 register are then averaged into a result.
 
 The higher the ‘_samples’ count the more stabilized the output but depending 
-on the system in place maybe to stabilized. 
+on the system in place maybe too stabilized. 
 The lower the ‘_samples’ count the more unregulated the output
 """
 
