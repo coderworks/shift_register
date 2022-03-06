@@ -1,4 +1,4 @@
-# shift_register
+# Shift Register
 This program tries to present a simple example for creating a stable actuator
 output from a single, possibly unstable sensor. Samples from the 'history' or 
 register are then averaged into a result.
